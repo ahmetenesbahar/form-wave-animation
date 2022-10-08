@@ -1,4 +1,4 @@
-## Login/Register Page
+## Form Wave Animation
 
 Bu proje HTML CSS JavaScirpt kullanarak geliştirdiğim form input animasyonu uygulamasıdır.
 
